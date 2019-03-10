@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_news"
+        android:title="@string/menu_home"
+        android:icon="@drawable/ic_home_black"
+        />
+    <item
+        android:id="@+id/menu_appointment"
+        android:title="Lịch hẹn"
+        android:icon="@drawable/ic_calendar_clock_black"
+        />
+
+    <item
+        android:id="@+id/menu_wishList"
+        android:title="Đã lưu"
+        android:icon="@drawable/ic_notifications_black" />
+
+    <item
+        android:id="@+id/menu_personal"
+        android:title="@string/menu_personal"
+        android:icon="@drawable/ic_account_black" />
+
+</menu>
